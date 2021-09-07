@@ -2,6 +2,12 @@
 
 ## Version History
 
+### 3.1.1
+
+- restore support for "cordova" version ">=6.0.0"
+- restore support for "cordova-android" version ">=8.0.0"
+- restore support for "cordova-ios" version ">=5.0.0"
+
 ### 3.1.0
 
 - bump `rootbeer` from `0.0.9` to `0.1.0` (see [rootbeer#170](scottyab/rootbeer#170) [rootbeer#171](scottyab/rootbeer#171))
